@@ -15,3 +15,5 @@ Este projeto consiste em um **jogo simples de RPG por turnos**, no qual:
 
 
 O uso do **Strategy** permite que todas as entidades do jogo (personagens e boss) utilizem diferentes estratégias de ação de forma flexível e independente.
+
+Observação: A pasta Strategy e o arquivo do priojeto que foi utilizado no NetBeans
